@@ -1,7 +1,7 @@
 ---
 name: general
 about: standard issue template
-title: "[func reques] / [bug report] / [question] / [other]"
+title: "[func request] / [bug report] / [question] / [other]"
 labels: ''
 assignees: ''
 
